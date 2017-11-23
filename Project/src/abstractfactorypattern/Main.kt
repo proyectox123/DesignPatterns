@@ -23,6 +23,7 @@ private fun manageRepositoryRelational(){
     val factory = FactoryRelational()
     showStudentList(factory.createRepositoryStudents().getStudentList())
     showCourseList(factory.createRepositoryCourses().getCourseList())
+    showTeacherList(factory.createRepositoryTeachers().getTeacherList())
 }
 
 private fun manageRepositoryObjectModel(){
@@ -31,6 +32,7 @@ private fun manageRepositoryObjectModel(){
     val factory = FactoryObjectModel()
     showStudentList(factory.createRepositoryStudents().getStudentList())
     showCourseList(factory.createRepositoryCourses().getCourseList())
+    showTeacherList(factory.createRepositoryTeachers().getTeacherList())
 }
 
 private fun manageRepositoryNoSQL(){
@@ -39,6 +41,7 @@ private fun manageRepositoryNoSQL(){
     val factory = FactoryNoSQL()
     showStudentList(factory.createRepositoryStudents().getStudentList())
     showCourseList(factory.createRepositoryCourses().getCourseList())
+    showTeacherList(factory.createRepositoryTeachers().getTeacherList())
 }
 
 private fun manageRepositoryHypertext(){
@@ -47,6 +50,7 @@ private fun manageRepositoryHypertext(){
     val factory = FactoryHypertext()
     showStudentList(factory.createRepositoryStudents().getStudentList())
     showCourseList(factory.createRepositoryCourses().getCourseList())
+    showTeacherList(factory.createRepositoryTeachers().getTeacherList())
 }
 
 /*****************************************************************************/
@@ -58,6 +62,12 @@ private fun showStudentList(studentList: List<String>) {
 
 private fun showCourseList(courseList: List<String>) {
     courseList.forEach {
+        println(it)
+    }
+}
+
+private fun showTeacherList(teacherList: List<String>) {
+    teacherList.forEach {
         println(it)
     }
 }
