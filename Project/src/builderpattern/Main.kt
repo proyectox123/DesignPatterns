@@ -14,6 +14,8 @@ fun main(args: Array<String>) {
             .school("Private school")
             .build()
 
+
+
 //  It doesn't compile
 //    val fake = Person.Builder("Luisa")
 //            .major(20)

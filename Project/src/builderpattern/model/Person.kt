@@ -1,15 +1,17 @@
 package builderpattern.model
 
-import builderpattern.builder.BuilderMajor
-import builderpattern.builder.BuilderMinor
-
-class Person {
+class Person private constructor(){
 
     var name: String? = null
+        private set
     var age: Int = 0
+        private set
     var country: String? = null
+        private set
     var school: String? = null
+        private set
     var workplace: String? = null
+        private set
 
     open class Builder(name: String) {
 
@@ -34,6 +36,30 @@ class Person {
             if (age < 18) throw IllegalArgumentException("It's a kid! age: " + age)
             person.age = age
             return BuilderMajor(person)
+        }
+    }
+
+    class BuilderMinor internal constructor(private val person: Person) {
+
+        fun school(school: String): BuilderMinor {
+            this.person.school = school
+            return this
+        }
+
+        fun build(): Person {
+            return person
+        }
+    }
+
+    class BuilderMajor internal constructor(private val person: Person) {
+
+        fun workplace(workplace: String): BuilderMajor {
+            this.person.workplace = workplace
+            return this
+        }
+
+        fun build(): Person {
+            return person
         }
     }
 }
