@@ -12,66 +12,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="e#39#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Room.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/product/Room.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MazeGame.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/creator/MazeGame.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MagicMazeGame.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/concreteproduct/MagicMazeGame.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#55#220#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrdinaryMazeGame.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/concreteproduct/OrdinaryMazeGame.kt">
+      <file leaf-file-name="Animal.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prototypepattern/prototype/Animal.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrdinaryRoom.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/concretecreate/OrdinaryRoom.kt">
+      <file leaf-file-name="CloneFactory.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prototypepattern/creator/CloneFactory.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sheep.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/prototypepattern/concreteprototype/Sheep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prototypepattern/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#26#118#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,14 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/abstractfactorypattern/repository/type/relational/FactoryRelational.kt" />
-        <option value="$PROJECT_DIR$/src/abstractfactorypattern/repository/type/objectmodel/RepositoryTeachersObjectModel.kt" />
-        <option value="$PROJECT_DIR$/src/abstractfactorypattern/repository/type/objectmodel/FactoryObjectModel.kt" />
-        <option value="$PROJECT_DIR$/src/builderpattern/PersonCase1.kt" />
-        <option value="$PROJECT_DIR$/src/builderpattern/BuilderMajor.java" />
-        <option value="$PROJECT_DIR$/src/builderpattern/Person.java" />
-        <option value="$PROJECT_DIR$/src/builderpattern/BuilderMinor.kt" />
-        <option value="$PROJECT_DIR$/src/builderpattern/BuilderMajor.kt" />
         <option value="$PROJECT_DIR$/src/abstractfactorypattern/MainJava.java" />
         <option value="$PROJECT_DIR$/src/builderpattern/Person.kt" />
         <option value="$PROJECT_DIR$/src/builderpattern/exercise1/Main.java" />
@@ -151,6 +124,14 @@
         <option value="$PROJECT_DIR$/src/factorymethodpattern/example3/concreteproduct/OrdinaryMazeGame.kt" />
         <option value="$PROJECT_DIR$/src/factorymethodpattern/example3/concretecreate/OrdinaryRoom.kt" />
         <option value="$PROJECT_DIR$/src/factorymethodpattern/example3/Main.kt" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/prototype/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/CloneFactory.java" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/creator/CloneFactory.java" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/Main.kt" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/concreteprototype/Sheep.kt" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/concreteprototype/Sheep.java" />
+        <option value="$PROJECT_DIR$/src/prototypepattern/creator/CloneFactory.kt" />
       </list>
     </option>
   </component>
@@ -198,46 +179,28 @@
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="concreteprototype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
-              <item name="concretecreate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
-              <item name="concreteproduct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
               <item name="creator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,12 +216,15 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\prototypepattern\concreteprototype" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="prototypepattern.prototype" />
       <recent name="factorymethodpattern.example2.concreteProduct" />
       <recent name="factorymethodpattern.example2.product" />
       <recent name="factorymethodpattern.product" />
       <recent name="builderpattern.model" />
-      <recent name="builderpattern.builder" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\builderpattern\exercise1" />
@@ -276,26 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.factorymethodpattern.example3.MainKt">
-    <configuration name="MainJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="abstractfactorypattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="abstractfactorypattern.MainJava" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Project" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.prototypepattern.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -425,20 +372,32 @@
       <module name="Project" />
       <envs />
     </configuration>
+    <configuration name="prototypepattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="prototypepattern.MainKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project" />
+      <envs />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.builderpattern.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MainJava" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example1.MainKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example1.MainKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.prototypepattern.MainKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example1.MainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.builderpattern.MainKt" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainJava" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.prototypepattern.MainKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example1.MainKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.builderpattern.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -458,12 +417,12 @@
       <workItem from="1511397240381" duration="3615000" />
       <workItem from="1511452090814" duration="2862000" />
       <workItem from="1511468432787" duration="5601000" />
-      <workItem from="1511541479686" duration="9301000" />
+      <workItem from="1511541479686" duration="12675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21379000" />
+    <option name="totallyTimeSpent" value="24753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -538,55 +497,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/type/objectmodel/RepositoryCoursesObjectModel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/type/relational/RepositoryCoursesRelational.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/type/hypertext/RepositoryStudentsHypertext.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/interfaces/RepositoryCourses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/interfaces/RepositoryStudents.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/interfaces/AbstractFactory.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/interfaces/RepositoryTeachers.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/repository/type/hypertext/RepositoryCoursesHypertext.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -811,7 +721,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
-            <element signature="e#54#224#0" expanded="true" />
+            <element signature="e#54#224#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -821,16 +731,6 @@
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/CarEnglishFactory.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#54#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,24 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/creator/CarFactory.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#39#284#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example3/concretecreate/MagicRoom.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -881,7 +763,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
-            <element signature="e#39#175#0" expanded="true" />
+            <element signature="e#39#175#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -907,7 +789,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <element signature="e#55#220#0" expanded="true" />
+            <element signature="e#55#220#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -925,6 +807,95 @@
         <state relative-caret-position="119">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/creator/CarFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/CarEnglishFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#54#225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#39#284#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototypepattern/concreteprototype/Sheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="70" column="18" lean-forward="false" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototypepattern/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="211" column="28" lean-forward="false" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototypepattern/prototype/Animal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototypepattern/creator/CloneFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototypepattern/concreteprototype/Sheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
