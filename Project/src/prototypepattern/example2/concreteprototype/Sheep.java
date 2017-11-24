@@ -1,7 +1,7 @@
-package prototypepattern.concreteprototype;
+package prototypepattern.example2.concreteprototype;
 
 import org.jetbrains.annotations.NotNull;
-import prototypepattern.prototype.Animal;
+import prototypepattern.example2.prototype.Animal;
 
 public class Sheep implements Animal {
     public Sheep(){

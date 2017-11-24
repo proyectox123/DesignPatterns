@@ -1,7 +1,7 @@
-package prototypepattern
+package prototypepattern.example2
 
-import prototypepattern.concreteprototype.Sheep
-import prototypepattern.creator.CloneFactory
+import prototypepattern.example2.concreteprototype.Sheep
+import prototypepattern.example2.creator.CloneFactory
 
 fun main(args: Array<String>) {
     val animalMaker = CloneFactory()
