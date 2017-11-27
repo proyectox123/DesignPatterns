@@ -12,21 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Unique.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/singletonpattern/Unique.kt">
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/singletonpattern/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticBlock.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/singletonpattern/StaticBlock.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -38,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
+        <option value="Kotlin Enum" />
         <option value="Class" />
         <option value="Kotlin File" />
       </list>
@@ -56,23 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/builderpattern/model/Person.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/Car.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/dogs/Poodle.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/dogs/Rotweiler.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/dogs/SiberianHusky.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/Dog.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/concretecreator/Poodle.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/concretecreator/Rotweiler.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/concretecreator/SiberianHusky.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/creator/DogFactory.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/Main.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example1/Car.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/product/Car.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/product/Car.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/product/CarLeftPilot.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/CarLeftPilot.kt" />
-        <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/CarRightPilot.kt" />
         <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/CarEnglishFactory.kt" />
         <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/creator/CarFactory.kt" />
         <option value="$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/carAmericanFactory.kt" />
@@ -107,6 +81,23 @@
         <option value="$PROJECT_DIR$/src/singletonpattern/Algo.kt" />
         <option value="$PROJECT_DIR$/src/singletonpattern/Unique.kt" />
         <option value="$PROJECT_DIR$/src/singletonpattern/StaticBlock.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/EagerInicialization.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/algo.java" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/EagerInitializedSingleton.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/EagerInitializedSingleton.java" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/EagerInicialized.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/EagerInitialized.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/Algoo.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/EagerInitialized.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/StaticBlock.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/LazyInitialized.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/ThreadSafe.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/BillPugh.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/Algo.java" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/Algoo.java" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/Algo.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/singleton/EnumSingleton.kt" />
+        <option value="$PROJECT_DIR$/src/singletonpattern/Main.kt" />
       </list>
     </option>
   </component>
@@ -156,6 +147,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="singletonpattern" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="singletonpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -170,19 +168,19 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\prototypepattern\example2" />
-      <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\prototypepattern\concreteprototype" />
-    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="singletonpattern.singleton" />
       <recent name="prototypepattern.prototype" />
       <recent name="factorymethodpattern.example2.concreteProduct" />
       <recent name="factorymethodpattern.example2.product" />
       <recent name="factorymethodpattern.product" />
-      <recent name="builderpattern.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\builderpattern\exercise1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\prototypepattern\example2" />
+      <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\prototypepattern\concreteprototype" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.prototypepattern.example.MainKt">
+  <component name="RunManager" selected="Kotlin.singletonpattern.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -279,18 +277,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="factorymethodpattern.example1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="factorymethodpattern.example1.MainKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Project" />
-      <envs />
-    </configuration>
     <configuration name="factorymethodpattern.example2.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="factorymethodpattern.example2.MainKt" />
@@ -339,20 +325,32 @@
       <module name="Project" />
       <envs />
     </configuration>
+    <configuration name="singletonpattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="singletonpattern.MainKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example1.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example2.MainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example.MainKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example2.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example.MainKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.singletonpattern.MainKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example.MainKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example2.MainKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example1.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.singletonpattern.MainKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example.MainKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.prototypepattern.example2.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example3.MainKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.factorymethodpattern.example2.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -373,12 +371,12 @@
       <workItem from="1511452090814" duration="2862000" />
       <workItem from="1511468432787" duration="5601000" />
       <workItem from="1511541479686" duration="15486000" />
-      <workItem from="1511727535977" duration="4700000" />
+      <workItem from="1511727535977" duration="7389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32264000" />
+    <option name="totallyTimeSpent" value="34953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -453,29 +451,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/BuilderMajor.java" />
-    <entry file="file://$PROJECT_DIR$/src/abstractfactorypattern/MainJava.java" />
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/exercise1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/exercise1/Persona.java" />
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/model/PersonUsingDefault.kt" />
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/model/Persona.java" />
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/builder/BuilderMajor.kt" />
-    <entry file="file://$PROJECT_DIR$/src/builderpattern/builder/BuilderMinor.kt" />
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/Car.kt" />
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example1/concretecreate/SiberianHusky.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/concreteproduct/CarLeftPilot.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example2/concretecreate/CarAmericanFactory.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -509,6 +484,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#39#175#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,6 +543,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#39#284#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -754,7 +735,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/singletonpattern/Unique.kt">
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/EagerInitializedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/EagerInitialized.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/StaticBlock.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/LazyInitialized.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/util/Synchronized.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/ThreadSafe.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/Algo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/Unique.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
@@ -762,10 +799,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/singletonpattern/StaticBlock.kt">
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/Algoo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/Algo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/BillPugh.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/singleton/EnumSingleton.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singletonpattern/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding />
         </state>
       </provider>
