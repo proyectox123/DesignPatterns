@@ -1,7 +1,5 @@
 package prototypepattern.example
 
-import prototypepattern.example2.concreteprototype.Sheep
-
 class Configuration(var alignment: Element,
                     var valignment: Element,
                     var font: FontFamily,
