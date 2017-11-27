@@ -24,7 +24,7 @@ class Configuration(var alignment: Element,
             } catch (e: CloneNotSupportedException) {
                 e.printStackTrace()
                 println("CloneNotSupportedException")
-                null
+                throw AssertionError()
             }
         }
     }
