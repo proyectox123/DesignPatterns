@@ -2,6 +2,7 @@ package singletonpattern
 
 import java.io.Serializable
 
+//Lazy Initialization
 class Unique private constructor()//It is necessary to make this constructor private
     : Serializable {
 
