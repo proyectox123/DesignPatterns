@@ -1,5 +1,7 @@
 package bridgepattern.example2.refinedabstraction
 
-interface VendedorOnlineEmpresas {
+import bridgepattern.example2.abstraction.VendedorOnline
+
+interface VendedorOnlineEmpresas : VendedorOnline {
     fun compraProducto(nombre: String, cantidadPorCaja: Int, cajas: Int)
 }
