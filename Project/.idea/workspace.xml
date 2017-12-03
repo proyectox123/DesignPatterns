@@ -11,34 +11,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/Main.kt">
+    <leaf>
+      <file leaf-file-name="FactoryRow.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/FactoryRow.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideoConversionFacade.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/facade/VideoConversionFacade.kt">
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="e#39#484#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodecFactory.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/subsystem/codec/CodecFactory.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -70,16 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/concreteimplementor/VendedorParticularImpl1.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/refinedabstraction/VendedorOnlineParticulares.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/abstraction/VendedorOnline.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/implementor/TiendaImpl.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/concreteimplementor/VendedorParticularImpl.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/concreteimplementor/Tienda1Impl.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/concreteimplementor/VendedorEmpresaImpl.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/Main.kt" />
-        <option value="$PROJECT_DIR$/src/bridgepattern/example2/refinedabstraction/VendedorOnlineEmpresas.kt" />
-        <option value="$PROJECT_DIR$/src/compositepattern/CustomCanvas.kt" />
         <option value="$PROJECT_DIR$/src/compositepattern/Selection.kt" />
         <option value="$PROJECT_DIR$/src/compositepattern/Figure.kt" />
         <option value="$PROJECT_DIR$/src/compositepattern/Employee.kt" />
@@ -121,6 +99,16 @@
         <option value="$PROJECT_DIR$/src/facadepattern/example1/subsystem/facade/VideoConversionFacade.kt" />
         <option value="$PROJECT_DIR$/src/facadepattern/example1/facade/VideoConversionFacade.kt" />
         <option value="$PROJECT_DIR$/src/facadepattern/example1/Main.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/Team.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/Soldier.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/SoldierImp.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/SoldierFactory.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/SoldierClient.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/Cell.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/Row.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/FactoryCell.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/Main.kt" />
+        <option value="$PROJECT_DIR$/src/flyweightpattern/example1/FactoryRow.kt" />
       </list>
     </option>
   </component>
@@ -169,65 +157,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="example1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="facade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="concretecreate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="creator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethodpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.facadepattern.example1.MainKt">
+  <component name="RunManager" selected="Kotlin.flyweightpattern.example1.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -345,18 +282,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="bridgepattern.example2.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="bridgepattern.example2.MainKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Project" />
-      <envs />
-    </configuration>
     <configuration name="compositepattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="compositepattern.MainKt" />
@@ -405,20 +330,32 @@
       <module name="Project" />
       <envs />
     </configuration>
+    <configuration name="flyweightpattern.example1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="flyweightpattern.example1.MainKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.bridgepattern.example2.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.compositepattern.MainKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.decoratorpattern.example1.MainKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.compositepattern.MainKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.decoratorpattern.example1.MainKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example1.MainKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.decoratorpattern.example1.MainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.compositepattern.MainKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.bridgepattern.example2.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example1.MainKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.decoratorpattern.example1.MainKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.compositepattern.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -448,15 +385,17 @@
       <workItem from="1512076779965" duration="734000" />
       <workItem from="1512090583102" duration="139000" />
       <workItem from="1512150322961" duration="4000" />
-      <workItem from="1512160101189" duration="2892000" />
+      <workItem from="1512160101189" duration="6285000" />
+      <workItem from="1512332867407" duration="1580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56296000" />
+    <option name="totallyTimeSpent" value="61269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -471,7 +410,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17715959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17715959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,55 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example1/concretecreate/Poodle.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethodpattern/example1/product/Dog.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapterpattern/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridgepattern/example1/concreteimplementor/Sony.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridgepattern/example1/concreteimplementor/Samsung.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridgepattern/example1/concreteimplementor/LG.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridgepattern/example1/implementor/TV.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bridgepattern/example1/refinedabstraction/ConcreteRemote.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -799,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,9 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#123#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,27 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#56#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/facade/VideoConversionFacade.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#39#484#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,6 +745,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/facade/VideoConversionFacade.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facadepattern/example1/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/Soldier.kt" />
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/SoldierImp.kt" />
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/SoldierFactory.kt" />
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/SoldierClient.kt" />
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/FactoryRow.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/FactoryRow.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example1/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
