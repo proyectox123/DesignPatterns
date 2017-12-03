@@ -12,62 +12,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example2/Main.kt">
+      <file leaf-file-name="Image.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/subject/Image.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealImage.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/realsubject/RealImage.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyImage.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/proxy/ProxyImage.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
-                <element signature="e#35#114#0" expanded="true" />
+                <element signature="e#37#130#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Forest.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example2/concreteflyweight/Forest.kt">
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="e#53#271#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example2/flyweightinterface/Tree.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="80" lean-forward="false" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
-              <folding>
-                <element signature="e#54#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeType.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example2/concreteflyweight/TreeType.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="e#53#99#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeFactory.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/flyweightpattern/example2/flyweightfactory/TreeFactory.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="e#52#158#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,10 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/compositepattern/leaf/Circle.kt" />
-        <option value="$PROJECT_DIR$/src/compositepattern/leaf/Trapeze.kt" />
-        <option value="$PROJECT_DIR$/src/compositepattern/leaf/Hexagon.kt" />
-        <option value="$PROJECT_DIR$/src/compositepattern/leaf/Dodecahedron.kt" />
         <option value="$PROJECT_DIR$/src/compositepattern/Main.kt" />
         <option value="$PROJECT_DIR$/src/decoratorpattern/Coffee.kt" />
         <option value="$PROJECT_DIR$/src/decoratorpattern/ShortCoffee.kt" />
@@ -149,6 +127,10 @@
         <option value="$PROJECT_DIR$/src/flyweightpattern/example2/concreteflyweight/TreeType.kt" />
         <option value="$PROJECT_DIR$/src/flyweightpattern/example2/flyweightfactory/TreeFactory.kt" />
         <option value="$PROJECT_DIR$/src/flyweightpattern/example2/Main.kt" />
+        <option value="$PROJECT_DIR$/src/proxypattern/example1/Image.kt" />
+        <option value="$PROJECT_DIR$/src/proxypattern/example1/realsubject/RealImage.kt" />
+        <option value="$PROJECT_DIR$/src/proxypattern/example1/proxy/ProxyImage.kt" />
+        <option value="$PROJECT_DIR$/src/proxypattern/example1/Main.kt" />
       </list>
     </option>
   </component>
@@ -195,38 +177,28 @@
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
-              <item name="concreteflyweight" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+              <item name="realsubject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweightinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+              <item name="subject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.flyweightpattern.example2.MainKt">
+  <component name="RunManager" selected="Kotlin.proxypattern.example1.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -353,18 +325,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="decoratorpattern.example1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="decoratorpattern.example1.MainKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Project" />
-      <envs />
-    </configuration>
     <configuration name="facadepattern.example1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="facadepattern.example1.MainKt" />
@@ -413,20 +373,32 @@
       <module name="Project" />
       <envs />
     </configuration>
+    <configuration name="proxypattern.example1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="proxypattern.example1.MainKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.decoratorpattern.example1.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example1.MainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example2.MainKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example1.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example2.MainKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.proxypattern.example1.MainKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example2.MainKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example1.MainKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.decoratorpattern.example1.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.proxypattern.example1.MainKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example2.MainKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.flyweightpattern.example1.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.MainKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.facadepattern.example1.subsystem.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -457,12 +429,12 @@
       <workItem from="1512090583102" duration="139000" />
       <workItem from="1512150322961" duration="4000" />
       <workItem from="1512160101189" duration="6285000" />
-      <workItem from="1512332867407" duration="6015000" />
+      <workItem from="1512332867407" duration="7028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65704000" />
+    <option name="totallyTimeSpent" value="66717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -537,28 +509,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bridgepattern/example2/concreteimplementor/VendedorParticularImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridgepattern/example2/concreteimplementor/VendedorEmpresaImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/compositepattern/Employee.kt" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="193" column="20" lean-forward="false" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/compositepattern/CustomCanvas.kt" />
     <entry file="file://$PROJECT_DIR$/src/compositepattern/leaf/Triangle.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -882,6 +832,40 @@
           <folding>
             <element signature="e#35#114#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/subject/Image.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/proxy/ProxyImage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#37#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxypattern/example1/realsubject/RealImage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
