@@ -1,0 +1,5 @@
+package chainofresponsabilitypattern.concretehandler
+
+import chainofresponsabilitypattern.concretehandler.base.DollarDispenser
+
+class Dollar20Dispenser : DollarDispenser(20)
