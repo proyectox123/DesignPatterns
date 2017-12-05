@@ -1,0 +1,3 @@
+package structuralpatterns.facadepattern.subsystem.codec
+
+interface Codec
