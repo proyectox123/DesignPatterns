@@ -15,57 +15,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChatMediator.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/mediator/ChatMediator.kt">
+      <file leaf-file-name="RoomMediator.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/mediator/RoomMediator.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChatMediatorImpl.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretemediator/ChatMediatorImpl.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="204">
+              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding>
-                <element signature="e#70#208#0" expanded="true" />
+                <element signature="e#62#325#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/colleague/User.kt">
+      <file leaf-file-name="RoomMediatorImpl.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretemediator/RoomMediatorImpl.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="193">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#70#406#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserImpl.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretecolleague/UserImpl.kt">
+      <file leaf-file-name="LampImpl.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/LampImpl.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding>
-                <element signature="e#71#209#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/Main.kt">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
-                <element signature="e#53#215#0" expanded="true" />
+                <element signature="e#53#449#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,20 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/concretehandler/DollarDispenser.kt" />
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/client/ATMDispenseChain.kt" />
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/Main.kt" />
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/concretehandler/base/DollarDispenser.kt" />
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/concretehandler/Dollar10Dispenser.kt" />
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/concretehandler/Dollar20Dispenser.kt" />
-        <option value="$PROJECT_DIR$/src/chainofresponsabilitypattern/concretehandler/Dollar50Dispenser.kt" />
-        <option value="$PROJECT_DIR$/src/decoratorpattern/Main.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/chainofresponsabilitypattern/command/Main.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/command/receiver/FileSystemReceiver.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/command/receiver/UnixFileSystemReceiver.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/command/receiver/WindowsFileSystemReceiver.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/command/command/Command.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/command/concretecommand/OpenFileCommand.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/command/concretecommand/CloseFileCommand.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/command/concretecommand/WriteFileCommand.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/command/invoker/FileInvoker.kt" />
@@ -152,6 +128,20 @@
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretecolleague/UserImpl.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretemediator/ChatMediatorImpl.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/Main.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/Lamp.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/LampImpl.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/Lamp.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/TV.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Radio.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Alarm.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/TVImpl.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/RadioImpl.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/AlarmImpl.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/mediator/RoomMediator.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Lamp.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/LampImpl.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/Main.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretemediator/RoomMediatorImpl.kt" />
       </list>
     </option>
   </component>
@@ -216,39 +206,15 @@
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatorpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="colleague" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="concretecolleague" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="concretemediator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatorpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="example2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.behavioralpatterns.mediatorpattern.example1.MainKt">
+  <component name="RunManager" selected="Kotlin.behavioralpatterns.mediatorpattern.example2.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -372,18 +338,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="behavioralpatterns.interpreterpattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="behavioralpatterns.interpreterpattern.MainKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Project" />
-      <envs />
-    </configuration>
     <configuration name="behavioralpatterns.iteratorpattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="behavioralpatterns.iteratorpattern.MainKt" />
@@ -420,6 +374,18 @@
       <module name="Project" />
       <envs />
     </configuration>
+    <configuration name="behavioralpatterns.mediatorpattern.example2.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="behavioralpatterns.mediatorpattern.example2.MainKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project" />
+      <envs />
+    </configuration>
     <configuration name="behavioralpatterns.visitorpattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="behavioralpatterns.visitorpattern.MainKt" />
@@ -433,19 +399,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.interpreterpattern.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.example1.MainKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.MainKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.visitorpattern.MainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mediatorpattern.example1.MainKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.example1.MainKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.MainKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.visitorpattern.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mediatorpattern.example1.MainKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mediatorpattern.example2.MainKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mediatorpattern.example1.MainKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.visitorpattern.MainKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.MainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.example1.MainKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.interpreterpattern.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mediatorpattern.example2.MainKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mediatorpattern.example1.MainKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.visitorpattern.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.MainKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.iteratorpattern.example1.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -480,12 +446,12 @@
       <workItem from="1512403935086" duration="12000" />
       <workItem from="1512440160356" duration="3654000" />
       <workItem from="1512501913850" duration="12980000" />
-      <workItem from="1512598186408" duration="2147000" />
+      <workItem from="1512598186408" duration="3898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90855000" />
+    <option name="totallyTimeSpent" value="92606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -499,7 +465,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3562368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3562368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -561,101 +527,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/structuralpatterns/decoratorpattern/decorator/Cinnamon.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structuralpatterns/decoratorpattern/component/Coffee.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structuralpatterns/decoratorpattern/component/ShortCoffee.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structuralpatterns/decoratorpattern/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#45#224#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structuralpatterns/facadepattern/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/concretecommand/CloseFileCommand.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#52#163#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/concretecommand/WriteFileCommand.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding>
-            <element signature="e#52#163#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/command/Command.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/receiver/WindowsFileSystemReceiver.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/FileSystemReceiverUtil.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#36#232#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/receiver/FileSystemReceiver.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/command/invoker/FileInvoker.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -856,7 +727,7 @@
         <state relative-caret-position="272">
           <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
           <folding>
-            <element signature="e#43#309#0" expanded="true" />
+            <element signature="e#43#309#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -929,40 +800,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/TV.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Radio.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Alarm.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/TVImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/RadioImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/AlarmImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/mediator/ChatMediator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretemediator/ChatMediatorImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretecolleague/UserImpl.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="e#71#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/concretemediator/ChatMediatorImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="e#70#208#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding>
             <element signature="e#53#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Lamp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/mediator/RoomMediator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#62#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretemediator/RoomMediatorImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#70#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/LampImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#53#449#0" expanded="true" />
           </folding>
         </state>
       </provider>
