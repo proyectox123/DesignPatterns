@@ -1,4 +1,4 @@
-package behavioralpatterns.mementopattern
+package behavioralpatterns.mementopattern.example1
 
 class DietInfoCaretaker {
 

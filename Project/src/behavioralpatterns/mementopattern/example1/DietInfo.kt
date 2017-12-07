@@ -1,4 +1,4 @@
-package behavioralpatterns.mementopattern
+package behavioralpatterns.mementopattern.example1
 
 class DietInfo(internal var personName: String, internal var dayNumber: Int, internal var weight: Int) {
 
