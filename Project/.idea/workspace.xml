@@ -31,8 +31,8 @@
       <file leaf-file-name="Database.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Database.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,8 +41,8 @@
       <file leaf-file-name="Memento.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Memento.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="524">
+              <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -136,8 +136,8 @@
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/DietInfo.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/Main.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Memento.java" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Memento.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Register.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Memento.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Database.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Main.kt" />
       </list>
@@ -454,12 +454,12 @@
       <workItem from="1512440160356" duration="3654000" />
       <workItem from="1512501913850" duration="12980000" />
       <workItem from="1512598186408" duration="8446000" />
-      <workItem from="1512677152069" duration="3018000" />
+      <workItem from="1512677152069" duration="3179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100172000" />
+    <option name="totallyTimeSpent" value="100333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -845,6 +845,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Memento.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Database.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Register.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -853,26 +869,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Database.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Memento.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mementopattern/example2/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="524">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding />
         </state>
       </provider>

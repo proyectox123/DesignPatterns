@@ -42,4 +42,23 @@ class Database {
     }
 
     fun getBackupSize() = memento.size
+
+    inner class Memento {
+
+        private val backup: java.util.ArrayList<java.util.ArrayList<Register>> = java.util.ArrayList()
+
+        fun setBackup(bd: List<Register>) {
+            val list = java.util.ArrayList<Register>()
+            list.addAll(bd)
+            backup.add(list)
+        }
+
+        fun getBackup(version: Int) = when {
+            version < 0 || version > size -> null
+            else -> backup[version]
+        }
+
+        val size: Int
+            get() = backup.size
+    }
 }

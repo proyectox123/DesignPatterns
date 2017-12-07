@@ -24,6 +24,7 @@ fun main(args: Array<String>) {
         showMenu()
         option = scanner.nextInt()
         when(option){
+            0 -> println("End of the program...")
             1 -> bd.showList()
             2 -> bd.clearDatabase()
             3 -> {
