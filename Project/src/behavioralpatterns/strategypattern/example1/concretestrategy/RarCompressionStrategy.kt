@@ -1,6 +1,6 @@
-package behavioralpatterns.strategypattern.concretestrategy
+package behavioralpatterns.strategypattern.example1.concretestrategy
 
-import behavioralpatterns.strategypattern.strategy.CompressionStrategy
+import behavioralpatterns.strategypattern.example1.strategy.CompressionStrategy
 
 class RarCompressionStrategy : CompressionStrategy {
     override fun compressFiles(files: List<String>) {

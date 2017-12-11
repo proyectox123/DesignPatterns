@@ -1,6 +1,6 @@
-package behavioralpatterns.strategypattern.context
+package behavioralpatterns.strategypattern.example1.context
 
-import behavioralpatterns.strategypattern.strategy.CompressionStrategy
+import behavioralpatterns.strategypattern.example1.strategy.CompressionStrategy
 
 class CompressionContext {
 

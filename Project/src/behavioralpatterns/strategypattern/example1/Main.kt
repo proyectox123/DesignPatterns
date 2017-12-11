@@ -1,8 +1,8 @@
-package behavioralpatterns.strategypattern
+package behavioralpatterns.strategypattern.example1
 
-import behavioralpatterns.strategypattern.concretestrategy.RarCompressionStrategy
-import behavioralpatterns.strategypattern.concretestrategy.ZipCompressionStrategy
-import behavioralpatterns.strategypattern.context.CompressionContext
+import behavioralpatterns.strategypattern.example1.concretestrategy.RarCompressionStrategy
+import behavioralpatterns.strategypattern.example1.concretestrategy.ZipCompressionStrategy
+import behavioralpatterns.strategypattern.example1.context.CompressionContext
 
 private enum class CompressionStrategyFlag {
     ZIP, RAR
