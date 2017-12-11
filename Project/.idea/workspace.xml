@@ -18,35 +18,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StrategyCreditCard.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/strategypattern/example2/concretestrategy/StrategyCreditCard.kt">
+      <file leaf-file-name="Game.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/abstractclass/Game.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="85">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShoppingCart.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/strategypattern/example2/context/ShoppingCart.kt">
+      <file leaf-file-name="Football.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Football.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding>
-                <element signature="e#61#155#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="35">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Basketball.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Basketball.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Volleyball.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Volleyball.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/strategypattern/example2/Main.kt">
+        <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
-                <element signature="e#53#358#0" expanded="true" />
+                <element signature="e#50#333#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,12 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/Lamp.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/TV.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Radio.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Alarm.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/TVImpl.kt" />
-        <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/RadioImpl.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/AlarmImpl.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/mediator/RoomMediator.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Lamp.kt" />
@@ -134,6 +146,12 @@
         <option value="$PROJECT_DIR$/src/behavioralpatterns/strategypattern/example2/Main.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/strategypattern/example2/concretestrategy/StrategyPaypal.kt" />
         <option value="$PROJECT_DIR$/src/behavioralpatterns/strategypattern/example2/concretestrategy/StrategyCreditCard.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/Game.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/Football.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Football.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Basketball.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Volleyball.kt" />
+        <option value="$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/Main.kt" />
       </list>
     </option>
   </component>
@@ -190,6 +208,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioralpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="concreteclass" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,11 +248,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="behavioralpatterns.templatemethodpattern.concreteclass" />
+      <recent name="behavioralpatterns.templatemethodpattern.abstractclass" />
       <recent name="behavioralpatterns.strategypattern.example2.concretestrategy" />
       <recent name="behavioralpatterns.strategypattern.example2.strategy" />
       <recent name="behavioralpatterns.strategypattern.concretestrategy" />
-      <recent name="behavioralpatterns.strategypattern.strategy" />
-      <recent name="behavioralpatterns.observerpattern.observer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mauricio.hernandez\Desktop\Courses\Udemy\PatternDesigns\Project\src\builderpattern\exercise1" />
@@ -236,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.behavioralpatterns.strategypattern.example2.MainKt">
+  <component name="RunManager" selected="Kotlin.behavioralpatterns.templatemethodpattern.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -318,18 +359,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="behavioralpatterns.mementopattern.example2.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="behavioralpatterns.mementopattern.example2.MainKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Project" />
-      <envs />
-    </configuration>
     <configuration name="behavioralpatterns.observerpattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="behavioralpatterns.observerpattern.MainKt" />
@@ -378,20 +407,32 @@
       <module name="Project" />
       <envs />
     </configuration>
+    <configuration name="behavioralpatterns.templatemethodpattern.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="behavioralpatterns.templatemethodpattern.MainKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mementopattern.example2.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.observerpattern.MainKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.statepattern.MainKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example1.MainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example2.MainKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.observerpattern.MainKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.statepattern.MainKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example1.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example2.MainKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.templatemethodpattern.MainKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example2.MainKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example1.MainKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.statepattern.MainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.observerpattern.MainKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.mementopattern.example2.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.templatemethodpattern.MainKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example2.MainKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.strategypattern.example1.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.statepattern.MainKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.behavioralpatterns.observerpattern.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -429,15 +470,16 @@
       <workItem from="1512598186408" duration="8446000" />
       <workItem from="1512677152069" duration="3179000" />
       <workItem from="1512694703852" duration="303000" />
-      <workItem from="1512947053067" duration="12279000" />
+      <workItem from="1512947053067" duration="13488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112915000" />
+    <option name="totallyTimeSpent" value="114124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -448,11 +490,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3548896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3548896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -479,21 +521,23 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3562368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3548896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17395833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -520,41 +564,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example1/colleague/User.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/TV.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Radio.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/colleague/Alarm.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/TVImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/mediatorpattern/example2/concretecolleague/RadioImpl.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -838,7 +847,7 @@
         <state relative-caret-position="323">
           <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding>
-            <element signature="e#53#312#0" expanded="true" />
+            <element signature="e#53#312#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -880,7 +889,7 @@
         <state relative-caret-position="290">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <element signature="e#61#155#0" expanded="true" />
+            <element signature="e#61#155#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -891,6 +900,48 @@
           <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <element signature="e#53#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Football.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Basketball.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/concreteclass/Volleyball.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/abstractclass/Game.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioralpatterns/templatemethodpattern/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#50#333#0" expanded="true" />
           </folding>
         </state>
       </provider>
